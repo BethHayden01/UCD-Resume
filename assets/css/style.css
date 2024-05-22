@@ -4,3 +4,14 @@
 header {
     margin: 0;
 }
+
+.logo {
+    background: url("../images/resume.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5% ease-in-out;
+    -moz-transition: all .5% ease-in-out;
+    -webkit-transition: all .5% ease-in-out;
+}
